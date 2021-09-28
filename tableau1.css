@@ -1,0 +1,42 @@
+h1{
+	text-align: center;
+	color: darkblue;
+} 
+.top{
+    font-size: 3em;
+    color:darkblue;
+    padding:1em 6em 1em 6em;
+    background-color: lightblue;
+
+}
+
+table{
+	margin: auto;
+	border-collapse: collapse;
+}
+td, th{
+	border: skyblue 5px solid;
+	width: 85%;
+	height: 85px;
+	text-align: center;
+}
+td{
+	vertical-align: bottom;
+	font-family: arial;
+}
+
+.france{
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2560px-Flag_of_France.svg.png");
+	background-size: 120%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 30%;
+
+}
+.usa{
+    background-image:url("https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png");
+	background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 30%;
+}
